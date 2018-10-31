@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2257900c-a997-49e1-a6c6-abcd56ad55db" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/tripp/farrapp/api/Application.java" afterPath="$PROJECT_DIR$/src/main/java/co/tripp/farrapp/api/Application.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/tripp/farrapp/api/data/model/Party.java" afterPath="$PROJECT_DIR$/src/main/java/co/tripp/farrapp/api/data/model/Party.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/tripp/farrapp/api/data/service/PartyServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/co/tripp/farrapp/api/data/service/PartyServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/tripp/farrapp/api/tests/PartyRepositoryTests.java" afterPath="$PROJECT_DIR$/src/main/java/co/tripp/farrapp/api/tests/PartyRepositoryTests.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -509,7 +506,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -737,15 +734,15 @@
       <option name="presentableId" value="Default" />
       <updated>1540950620536</updated>
       <workItem from="1540950624129" duration="981000" />
-      <workItem from="1540951783117" duration="3754000" />
+      <workItem from="1540951783117" duration="4342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4735000" />
+    <option name="totallyTimeSpent" value="5323000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
